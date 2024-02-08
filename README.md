@@ -6,3 +6,4 @@ This zip file contains three folders: softmar client, softmar server, and softma
  - For the softmar server, similarly install node modules with ```npm i``` and then initiate the server using the command ```node server.js```. 
 
 To ensure continuous data synchronization, even when the browser is closed, put the Python script in the softmar scheduler folder into the "Task Scheduler" of your system.
+Alternatively, You can also run the python file manually to test the code.
